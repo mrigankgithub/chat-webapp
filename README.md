@@ -1,6 +1,9 @@
-# BaseChat
+# Easy-Chat
 
+It is a simple chat web application where users can sign up and chat with the other listed users those already signed in.
+The App used Google Firebase to persist the data as well as the authentications.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+
 
 ## Development server
 
