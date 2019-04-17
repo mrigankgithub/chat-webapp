@@ -15,7 +15,6 @@ export class SignupFormComponent {
   errorMsg: string;
 
   constructor(private authService: AuthService, private router: Router) { }
-
   signUp() {
     const email = this.email;
     const password = this.password;
